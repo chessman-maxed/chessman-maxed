@@ -1,17 +1,6 @@
 <h1 align="center">Hey 👋, I'm Saumil Tarkas</h1>
 
-<h3 align="center">
-  Turning "what if?" into working code ⚡
-</h3>
-
-<p align="center">
-  <a href="https://github.com/chessman-maxed">
-    <img src="https://komarev.com/ghpvc/?username=chessman-maxed&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/chessman-maxed?tab=followers">
-    <img src="https://img.shields.io/github/followers/chessman-maxed?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
-  </a>
-</p>
+<h3 align="center">Turning "what if?" into working code ⚡</h3>
 
 ---
 
@@ -21,11 +10,11 @@
 💻 CSE Student
 ⚙️ Building backend systems & real-world projects
 🧠 Learning system design, APIs, Redis & scalable architecture
-🔥 DSA + competitive problem solving
-🌐 Full-stack development
+🔥 Practicing DSA & problem solving
+🌐 Building full-stack applications
 ☁️ Exploring cloud & DevOps
 🎯 Turning ideas into products
-```
+````
 
 > **Currently learning:** Real backend engineering — APIs, Redis, caching, queues, load handling, and how systems survive traffic.
 
@@ -45,28 +34,24 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chessman-maxed&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chessman-maxed&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=chessman-maxed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+    alt="Saumil's GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chessman-maxed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Saumil's Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=chessman-maxed&theme=tokyonight&hide_border=true" width="70%"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chessman-maxed&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chessman-maxed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=chessman-maxed&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="Saumil's GitHub Streak"
+  />
 </p>
 
 ---
@@ -75,11 +60,12 @@
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### ⚙️ Orchestrix
 
-A distributed task queue / job scheduling system focused on real backend engineering concepts.
+A distributed task queue and job scheduling system focused on real backend engineering concepts.
 
 **Focus:**
 
@@ -111,14 +97,16 @@ A cybersecurity-focused fraud detection simulation platform.
 🔗 [View Repository](https://github.com/chessman-maxed/Sentinel)
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🎬 CinePass
 
-A full-stack movie / entertainment platform exploring authentication, payments and modern web architecture.
+A full-stack entertainment platform exploring authentication, payments and modern web architecture.
 
 **Focus:**
 
@@ -134,21 +122,18 @@ A full-stack movie / entertainment platform exploring authentication, payments a
 
 <td width="50%">
 
-### 🎨 NamiArts
+### 🧠 More Projects
 
-An AI-enhanced artwork platform built as a real-world e-commerce project.
+I'm continuously building, experimenting and learning through real-world projects.
 
-**Focus:**
+From backend systems to full-stack applications, the goal is simple:
 
-* Next.js
-* Cloudinary
-* Product systems
-* Payments
-* Performance optimization
+**Build → Break → Understand → Improve**
 
-🔗 [View Repository](https://github.com/chessman-maxed/NamiArts)
+🔗 [Explore All Repositories](https://github.com/chessman-maxed?tab=repositories)
 
 </td>
+
 </tr>
 </table>
 
@@ -159,33 +144,33 @@ An AI-enhanced artwork platform built as a real-world e-commerce project.
 ### Languages
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
 </p>
 
 ### Backend & Infrastructure
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50" alt="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </p>
 
 ---
@@ -202,7 +187,7 @@ Distributed Systems       ████████░░░░░░░░░░
 
 ---
 
-# 📚 My Developer Journey
+# 📚 Developer Journey
 
 ```text
 Learn → Build → Break → Debug → Understand → Repeat
@@ -217,15 +202,15 @@ I'm particularly interested in understanding **why systems work**, not just maki
 <p align="center">
 
 <a href="https://www.linkedin.com/in/saumil-tarkas-394862314">
-  <img src="https://img.shields.io/badge/LinkedIn-Saumil%20Tarkas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Saumil%20Tarkas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:saumiltarkas1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-saumiltarkas1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-saumiltarkas1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://instagram.com/saumil_tarkas">
-  <img src="https://img.shields.io/badge/Instagram-saumil__tarkas-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-saumil__tarkas-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </p>
@@ -239,3 +224,4 @@ I'm particularly interested in understanding **why systems work**, not just maki
 <p align="center">
   <i>Building. Learning. Breaking things. Building them better.</i>
 </p>
+```
